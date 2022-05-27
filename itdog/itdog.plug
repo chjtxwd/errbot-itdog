@@ -1,0 +1,10 @@
+[Core]
+name = Itdog
+module = itdog
+
+[Documentation]
+description = command for get test result from itdog
+
+[Python]
+version = 3
+
